@@ -208,6 +208,9 @@ nav h1 a {
   #restaurants-list .restaurant-img {
     border-radius: 25px 0 0;
   }
+  #restaurants-list li {
+    width: 100%;
+  }
 }
 /* ====================== Restaurant Details ====================== */
 .inside header {
